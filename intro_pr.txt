@@ -1,0 +1,12 @@
+/*This is a normal intro to c++ print2*/
+
+#include<iostream>
+
+using namespace std;
+
+
+int main()
+{
+	cout << "Hello world!2" << endl;
+	cin.get();
+}
