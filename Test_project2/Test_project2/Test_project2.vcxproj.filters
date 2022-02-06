@@ -27,5 +27,13 @@
     <ClCompile Include="Variable_test.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Factorial.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="header.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

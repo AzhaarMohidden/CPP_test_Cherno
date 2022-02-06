@@ -141,10 +141,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Factorial.cpp" />
     <ClCompile Include="Logr.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="math.cpp" />
     <ClCompile Include="Variable_test.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="header.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
